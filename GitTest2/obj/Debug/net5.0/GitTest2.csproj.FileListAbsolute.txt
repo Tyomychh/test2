@@ -1,0 +1,16 @@
+C:\WorckWithGit\GitTest2\bin\Debug\net5.0\GitTest2.exe
+C:\WorckWithGit\GitTest2\bin\Debug\net5.0\GitTest2.deps.json
+C:\WorckWithGit\GitTest2\bin\Debug\net5.0\GitTest2.runtimeconfig.json
+C:\WorckWithGit\GitTest2\bin\Debug\net5.0\GitTest2.runtimeconfig.dev.json
+C:\WorckWithGit\GitTest2\bin\Debug\net5.0\GitTest2.dll
+C:\WorckWithGit\GitTest2\bin\Debug\net5.0\ref\GitTest2.dll
+C:\WorckWithGit\GitTest2\bin\Debug\net5.0\GitTest2.pdb
+C:\WorckWithGit\GitTest2\obj\Debug\net5.0\GitTest2.csproj.AssemblyReference.cache
+C:\WorckWithGit\GitTest2\obj\Debug\net5.0\GitTest2.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorckWithGit\GitTest2\obj\Debug\net5.0\GitTest2.AssemblyInfoInputs.cache
+C:\WorckWithGit\GitTest2\obj\Debug\net5.0\GitTest2.AssemblyInfo.cs
+C:\WorckWithGit\GitTest2\obj\Debug\net5.0\GitTest2.csproj.CoreCompileInputs.cache
+C:\WorckWithGit\GitTest2\obj\Debug\net5.0\GitTest2.dll
+C:\WorckWithGit\GitTest2\obj\Debug\net5.0\ref\GitTest2.dll
+C:\WorckWithGit\GitTest2\obj\Debug\net5.0\GitTest2.pdb
+C:\WorckWithGit\GitTest2\obj\Debug\net5.0\GitTest2.genruntimeconfig.cache
