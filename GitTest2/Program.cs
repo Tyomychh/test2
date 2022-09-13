@@ -8,10 +8,12 @@ namespace GitTest2
         {
             string x;
             x = Console.ReadLine();
-
+            //changes
+            int a = int.Parse(Console.ReadLine());
 
             Console.WriteLine("zdorow" + x);
-
+            //changes
+            Console.WriteLine("chislo" + a);
         }
     }
 }
