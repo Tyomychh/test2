@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.32106.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GitTest2", "GitTest2.csproj", "{D521F63B-64F7-44AE-8D8A-4DF440D5124D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitLab2", "..\GitLab2\GitLab2.csproj", "{B847C7E1-CA3A-4477-9977-2369D163CD31}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{D521F63B-64F7-44AE-8D8A-4DF440D5124D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D521F63B-64F7-44AE-8D8A-4DF440D5124D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D521F63B-64F7-44AE-8D8A-4DF440D5124D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B847C7E1-CA3A-4477-9977-2369D163CD31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B847C7E1-CA3A-4477-9977-2369D163CD31}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B847C7E1-CA3A-4477-9977-2369D163CD31}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B847C7E1-CA3A-4477-9977-2369D163CD31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
